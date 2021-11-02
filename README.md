@@ -7,4 +7,4 @@ Repository for #30DayMapChallenge - 2021
 <img src=01_Points/01_Points_opt.gif width="600">
 
 ## Day 2 of #30DayMapChallenge 2021 - Lines
-<img src=02_Lines/01_Lines.png width="600">
+<img src=02_Lines/02_Lines.png width="600">
