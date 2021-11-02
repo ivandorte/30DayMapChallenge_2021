@@ -5,3 +5,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 1 of #30DayMapChallenge 2021 - Points
 <img src=01_Points/01_Points_opt.gif width="600">
+
+## Day 2 of #30DayMapChallenge 2021 - Lines
+<img src=02_Lines/01_Lines.png width="600">
