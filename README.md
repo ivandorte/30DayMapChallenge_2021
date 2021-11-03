@@ -8,3 +8,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 2 of #30DayMapChallenge 2021 - Lines
 <img src=02_Lines/02_Lines.png width="600">
+
+## Day 3 of #30DayMapChallenge 2021 - Polygons
+<img src=03_Polygons/03_Polygons.png width="600">
