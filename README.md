@@ -14,3 +14,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 4 of #30DayMapChallenge 2021 - Hexagons
 <img src=04_Hexagons/04_Hexagons_opt.gif width="600">
+
+## Day 5 of #30DayMapChallenge 2021 - OpenStreetMap
+<img src=05_OSM/05_OSM.png width="600">

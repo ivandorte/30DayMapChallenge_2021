@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.536018,0,0,0.536018,13.4818,5.73514)">
+        <g transform="matrix(0.35742,0,0,0.398437,-251.354,-10.7656)">
+            <rect x="780" y="140" width="20" height="20" style="fill:rgb(229,210,43);"/>
+        </g>
+        <g transform="matrix(0.71484,0,0,-0.796875,-583.754,179.688)">
+            <path d="M860,100L870,160L850,160L860,100Z" style="fill:rgb(80,123,187);"/>
+        </g>
+        <g transform="matrix(0.71484,0,0,0.796875,-583.754,-81.6875)">
+            <path d="M860,100L870,160L850,160L860,100Z" style="fill:rgb(188,9,48);"/>
+        </g>
+        <g transform="matrix(0.71484,0,0,0.796875,-563.498,-44.3187)">
+            <text x="832.355px" y="99.618px" style="font-family:'PTSerif-Italic', 'PT Serif', sans-serif;font-style:italic;font-size:48px;fill:rgb(204,204,204);">N</text>
+        </g>
+        <g transform="matrix(0.71484,0,0,0.796875,-583.502,10.0983)">
+            <text x="832.355px" y="99.618px" style="font-family:'PTSerif-Italic', 'PT Serif', sans-serif;font-style:italic;font-size:48px;fill:rgb(204,204,204);">S</text>
+        </g>
+    </g>
+</svg>
