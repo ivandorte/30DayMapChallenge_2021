@@ -20,3 +20,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 6 of #30DayMapChallenge 2021 - Red
 <img src=06_Red/06_Red_opt.gif width="600">
+
+## Day 7 of #30DayMapChallenge 2021 - Green
+<img src=07_Green/07_Green.gif width="600">
