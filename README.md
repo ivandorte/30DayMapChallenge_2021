@@ -22,4 +22,4 @@ Repository for #30DayMapChallenge - 2021
 <img src=06_Red/06_Red_opt.gif width="600">
 
 ## Day 7 of #30DayMapChallenge 2021 - Green
-<img src=07_Green/07_Green.gif width="600">
+<img src=07_Green/07_Green_g.gif width="600">
