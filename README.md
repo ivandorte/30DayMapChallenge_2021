@@ -25,4 +25,7 @@ Repository for #30DayMapChallenge - 2021
 <img src=07_Green/07_Green.gif width="600">
 
 ## Day 8 of #30DayMapChallenge 2021 - Blue
-<img src=08_Blue/09_Blue.png width="600">
+<img src=08_Blue/08_Blue.png width="600">
+
+## Day 9 of #30DayMapChallenge 2021 - Monochrome
+<img src=09_Monochrome/09_Monochrome.png width="600">
