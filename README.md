@@ -29,3 +29,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 9 of #30DayMapChallenge 2021 - Monochrome
 <img src=09_Monochrome/09_Monochrome.png width="600">
+
+## Day 10 of #30DayMapChallenge 2021 - Raster
+<img src=10_Raster/10_Raster.png width="600">
