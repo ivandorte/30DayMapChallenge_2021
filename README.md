@@ -32,3 +32,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 10 of #30DayMapChallenge 2021 - Raster
 <img src=10_Raster/10_Raster.png width="600">
+
+## Day 11 of #30DayMapChallenge 2021 - 3D
+<img src=11_3D/11_3D.png width="600">
