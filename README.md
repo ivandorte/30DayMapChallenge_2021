@@ -43,4 +43,4 @@ Repository for #30DayMapChallenge - 2021
 <img src=13_NaturalEarth/13_NaturalEarth.jpg width="600">
 
 ## Day 14 of #30DayMapChallenge 2021 - Map with a new tool
-<iframe src="14_NewTool/14_NewTool.html" height="600" width="600"></iframe>
+[![Image](14_NewTool/14_NewTool.png )](https://agingindex-30daymapchallenge.netlify.app/ "Click on the image to open the webmap")
