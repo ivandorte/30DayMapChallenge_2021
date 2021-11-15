@@ -44,3 +44,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 14 of #30DayMapChallenge 2021 - Map with a new tool
 [![Image](14_NewTool/14_NewTool.png )](https://agingindex-30daymapchallenge.netlify.app/ "Click on the image to open the webmap")
+
+## Day 15 of #30DayMapChallenge 2021 - Map made without using a computer
+<img src=15_NoComputer/15_NoComputer.jpg width="600">
