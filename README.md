@@ -47,3 +47,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 15 of #30DayMapChallenge 2021 - Map made without using a computer
 <img src=15_NoComputer/15_NoComputer.jpg width="600">
+
+## Day 17 of #30DayMapChallenge 2021 - Land
+<img src=17_Land/17_Land.jpg width="600">
