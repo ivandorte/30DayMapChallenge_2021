@@ -50,3 +50,6 @@ Repository for #30DayMapChallenge - 2021
 
 ## Day 17 of #30DayMapChallenge 2021 - Land
 <img src=17_Land/17_Land.jpg width="600">
+
+## Day 21 of #30DayMapChallenge 2021 - Elevation
+<img src=21_Elevation/26_Elevation_A.jpg width="600">
