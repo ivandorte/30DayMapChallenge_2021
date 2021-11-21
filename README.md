@@ -52,4 +52,6 @@ Repository for #30DayMapChallenge - 2021
 <img src=17_Land/17_Land.jpg width="600">
 
 ## Day 21 of #30DayMapChallenge 2021 - Elevation
-<img src=21_Elevation/26_Elevation_A.jpg width="600">
+<img src=21_Elevation/21_Elevation_A.jpg width="600">
+<img src=21_Elevation/21_Elevation_B.jpg width="600">
+<img src=21_Elevation/21_Elevation_C.jpg width="600">
