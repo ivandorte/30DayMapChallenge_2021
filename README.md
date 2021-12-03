@@ -55,3 +55,6 @@ Repository for #30DayMapChallenge - 2021
 <img src=21_Elevation/21_Elevation_A.jpg width="600">
 <img src=21_Elevation/21_Elevation_B.jpg width="600">
 <img src=21_Elevation/21_Elevation_C.jpg width="600">
+
+## Day 26 of #30DayMapChallenge 2021 - Choropleth
+<img src=26_Choropleth/26_Choropleth.jpg width="600">
