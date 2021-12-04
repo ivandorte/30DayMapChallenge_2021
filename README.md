@@ -36,9 +36,6 @@ Repository for #30DayMapChallenge - 2021
 ## Day 11 of #30DayMapChallenge 2021 - 3D
 <img src=11_3D/11_3D.png width="600">
 
-## Day 12 of #30DayMapChallenge 2021 - Population
-<img src=12_Pop/12_Pop.jpg width="600">
-
 ## Day 13 of #30DayMapChallenge 2021 - Natural Earth
 <img src=13_NaturalEarth/13_NaturalEarth.jpg width="600">
 
