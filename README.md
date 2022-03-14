@@ -1,3 +1,9 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+[![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+Source: 
+[StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/AddBanner.md)
 # 30DayMapChallenge_2021
 Repository for #30DayMapChallenge - 2021
 
